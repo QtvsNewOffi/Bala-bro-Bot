@@ -13,13 +13,13 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+API_ID = int(environ.get('API_ID', '6074403072'))
+API_HASH = environ.get('API_HASH', 'a22cc2ee4f74610375520b1a5178c9cc')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6908277758:AAGQyX0Ulue92SfLKaSnXwm42CRRPLOREbg")
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'gyanilinks.com'))
-STREAM_API = (environ.get('STREAM_API', 'b6696a9a3a4d95031b076b9b8b40e163f9f29ff5'))
+STREAM_API = (environ.get('STREAM_API', '3efea6fe502d3390fed123f270e0fe5498df033d'))
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002122060084'))
@@ -64,7 +64,7 @@ VERIFY = bool(environ.get('VERIFY', False))
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/MrAK_LinkZz/5')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gyanilinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'b6696a9a3a4d95031b076b9b8b40e163f9f29ff5')
+SHORTLINK_API = environ.get('SHORTLINK_API', '3efea6fe502d3390fed123f270e0fe5498df033d')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 #others 
@@ -73,9 +73,9 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+1xujDl3NzN02N2Jl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MrAK_LinkZz')
-WRM = environ.get('WRM', 'https://t.me/MrAK_LinkZ')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+wSMAovOIqANiNjRl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/BCN_LINKZ')
+WRM = environ.get('WRM', 'https://t.me/BCN_LINKZ')
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello Nanbha and Nanbis ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002053122232'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+1xujDl3NzN02N2Jl')

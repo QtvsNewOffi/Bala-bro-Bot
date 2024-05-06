@@ -31,7 +31,7 @@ CODE = (environ.get('CODE', 'https://graph.org/file/54f8f1fd599bb2d7bd252.jpg'))
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/8cd764fbdf3ccd34abe22.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://graph.org/file/613bb0224b55c72858528.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/8cd764fbdf3ccd34abe22.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/howtodownloadbestie/6")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")

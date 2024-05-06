@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/8cd764fbdf3ccd34abe22.jpg](https://graph.org/file/613bb0224b55c72858528.jpg)" alt="BCN_LINKZ Logo">
+  <img src="[https://graph.org/file/613bb0224b55c72858528.jpg](https://graph.org/file/613bb0224b55c72858528.jpg)" alt="BCN_LINKZ Logo">
 </p>
 <h1 align="center">
   BCN_LINKZ

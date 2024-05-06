@@ -25,7 +25,7 @@ STREAM_API = (environ.get('STREAM_API', '3efea6fe502d3390fed123f270e0fe5498df033
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002007538830'))
 
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/a36b4b70f61796cfb8d5d.jpg'))
-CODE = (environ.get('CODE', 'https://graph.org/file/f96562518138b9132abf8.jpg'))
+CODE = (environ.get('CODE', 'https://graph.org/file/54f8f1fd599bb2d7bd252.jpg'))
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))

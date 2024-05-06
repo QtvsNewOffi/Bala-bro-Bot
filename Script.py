@@ -5,16 +5,16 @@ I ᴀᴍ Aᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ Pᴏᴡᴇʀғᴜʟʟ ᴍᴏᴠɪᴇ ᴘ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ 
 Jᴜsᴛ Aᴅᴅ Tᴏ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ Wɪᴛʜ Aᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ I ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ʏᴏᴜʀ Mᴏᴠɪᴇ Gʀᴏᴜᴘ😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/I_Am_MrAK'>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Itsking_45'>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/I_Am_MrAK'>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Itsking_45'>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a></b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/I_Am_MrAK>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a>
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MrAK_Bots'>UPDATES</a> 
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Itsking_45>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a>
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Itsking_45'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -23,7 +23,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs ᴘᴀɪᴅ .
-Cᴏɴᴛᴀᴄᴛ : <a href='https://t.me/I_Am_MrAK'>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a></b> 🙃</b>"""
+Cᴏɴᴛᴀᴄᴛ : <a href='https://t.me/Itsking_45'>𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞</a></b> 🙃</b>"""
 
 
 
@@ -76,8 +76,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     OWNER_INFO = """⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 𝐈 𝐀𝐦 𝙼𝚁𝗔𝗞
-• ᴜꜱᴇʀɴᴀᴍᴇ : @I_Am_MrAK
-• ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ : <a href='t.me/I_Am_MrAK'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Itsking_45
+• ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ : <a href='t.me/Itsking_45'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
@@ -694,9 +694,9 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
     MAIN_CHANNEL = """⍟───[ ᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘꜱ ]───⍟
 
-<a href='https://telegram.me/MrAK_LinkZz'>𝐎𝐔𝐑 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/Itsking_45'>𝐎𝐔𝐑 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='https://telegram.me/MrAK_LinkZz'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/Itsking_45'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
 <a href='https://telegram.me/MrAK_LinkZz'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
 

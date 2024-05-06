@@ -415,11 +415,11 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த @MrAK_LinkZ_bot போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த @Itsking_45 போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ Exp: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -442,11 +442,11 @@ Hey {}
 
  How and what to do
 
- Step 1: Administer this @MrAK_LinkZ_bot bot to your group
+ Step 1: Administer this @Itsking_45 bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ Exp: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  Add a video
 
@@ -469,11 +469,11 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ @MrAK_LinkZ_bot బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ @Itsking_45 బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ గడువు: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  వీడియోను జోడించండి
 
@@ -500,7 +500,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक krownlinks.com 4b392f8eb6ad711fbe58
+ एक्सप: /शॉर्टलिंक gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  एक वीडियो जोड़ें
 
@@ -527,7 +527,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ കാലഹരണപ്പെടൽ: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -550,11 +550,11 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس @MrAK_LinkZ_bot بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس @Itsking_45 بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ Exp: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  ایک ویڈیو شامل کریں۔
 
@@ -577,11 +577,11 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ @MrAK_LinkZ_bot બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ @Itsking_45 બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  વિડિઓ ઉમેરો
 
@@ -607,7 +607,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -629,11 +629,11 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই @MrAK_LinkZ_bot বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই @Itsking_45 বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink krownlinks.com 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink gyanilinks.com 3efea6fe502d3390fed123f270e0fe5498df033d
 
  একটি ভিডিও যোগ করুন
 
@@ -682,7 +682,7 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 ○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ                              
 ○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ   
 
-✨ ᴜᴘɪ ɪᴅ - <code>mraklinkzz@axl</code>
+✨ ᴜᴘɪ ɪᴅ - <code>balachandranathister3605@oksbi</code>
 
 ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan
 

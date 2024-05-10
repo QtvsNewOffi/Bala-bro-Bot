@@ -188,7 +188,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>{file_name}</code>\n\n
 
-⚙️ <b>Size: </b> <code>{file_size}</code>""" 
+<b>🅢🅘🅩🅔 - {file_size}</b>
+
+<b>•────•────────•────•
+🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+wSMAovOIqANiNjRl)
+🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BCN_LINKZ)
+•────•────────•────•
+⚙𝗔ᴅᴠɪsᴏʀ :[𝗜ts 𝗥oba 𝟐𝐊࿐](https://t.me/Itsking_45)
+😎 நன்றி தலைவரே  🙏🏻
+💝2k21 to 2k25 💝</b>"""  
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title: <a href={url}>{title}</a>
@@ -694,7 +702,7 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
     MAIN_CHANNEL = """⍟───[ ᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘꜱ ]───⍟
 
-<a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/BCN_LINKZ'>𝗢𝗨𝗥 𝗠𝗔𝗜𝗡 𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟🔥</a>
 
 <a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 

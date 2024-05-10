@@ -5,12 +5,12 @@ I ᴀᴍ Aᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ Pᴏᴡᴇʀғᴜʟʟ ᴍᴏᴠɪᴇ ᴘ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ 
 Jᴜsᴛ Aᴅᴅ Tᴏ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ Wɪᴛʜ Aᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ I ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ʏᴏᴜʀ Mᴏᴠɪᴇ Gʀᴏᴜᴘ😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Itsking_45'>𝗜ts 𝗥oba</a></b>"""
+😝 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Itsking_45'>𝗜ts 𝗥oba</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Itsking_45'>𝗜ts 𝗥oba</a></b>"""
+😝 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Itsking_45'>𝗜ts 𝗥oba</a></b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Itsking_45>𝗜ts 𝗥oba</a>

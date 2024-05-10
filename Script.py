@@ -704,13 +704,13 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
 <a href='https://telegram.me/BCN_LINKZ'>𝗢𝗨𝗥 𝗠𝗔𝗜𝗡 𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟🔥</a>
 
-<a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/HQPRINTS'>𝗢𝗨𝗥 𝗧𝗛𝗘𝗔𝗧𝗥𝗜𝗖𝗔𝗟 𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟⚡</a>
 
-<a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
+<a href='https://chat.whatsapp.com/JRM9bE7Vk1D6VE3HrYygyw'>𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣✨</a>
 
-<a href='https://t.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://t.me/+wSMAovOIqANiNjRl'>𝗢𝗨𝗥 𝗠𝗢𝗩𝗜𝗘𝗦 𝗗𝗜𝗦𝗖𝗨𝗦𝗦𝗜𝗢𝗡 𝗚𝗥𝗢𝗨𝗣🥴</a>
 
-<a href='https://t.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏</a>"""
+<a href='https://t.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏✊</a>"""
 
 
 

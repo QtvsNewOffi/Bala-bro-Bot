@@ -694,15 +694,15 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
     MAIN_CHANNEL = """⍟───[ ᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘꜱ ]───⍟
 
-<a href='https://telegram.me/Itsking_45'>𝐎𝐔𝐑 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='https://telegram.me/Itsking_45'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='https://telegram.me/Itsking_45'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
+<a href='https://telegram.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
 
-<a href='https://t.me/Itsking_45'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://t.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='https://t.me/Itsking_45'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏</a>"""
+<a href='https://t.me/BCN_LINKZ'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏</a>"""
 
 
 

@@ -132,9 +132,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://balapandiyan-9372e64b04d8.herokuapp.com/".format(FQDN)
+    URL = "https://bcn-linkz.faser23837.workers.dev/".format(FQDN)
 else:
-    URL = "https://balapandiyan-9372e64b04d8.herokuapp.com/".format(FQDN)
+    URL = "https://bcn-linkz.faser23837.workers.dev/".format(FQDN)
 
 
 

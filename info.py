@@ -38,11 +38,11 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5
 
 # Admins, Channels & Users
 USERNAME = environ.get("USERNAME", "https://t.me/Itsking_45")
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6074403072').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '885675538 6074403072').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002124824105').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '885675538 6074403072').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
+PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '885675538 6074403072').split()]
 auth_channel = environ.get('AUTH_CHANNEL', '-1002124824105')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
@@ -111,7 +111,7 @@ NO_PORT = bool(environ.get('NO_PORT', False))
 APP_NAME = None
 if 'DYNO' in environ:
     ON_HEROKU = True
-    APP_NAME = environ.get('APP_NAME', 'bcnlinkss-cb98cd12cc53')
+    APP_NAME = environ.get('APP_NAME', 'balapandiyan')
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
@@ -126,15 +126,15 @@ name = str(environ.get('name', 'LazyPrincess'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 if 'DYNO' in environ:
     ON_HEROKU = True
-    APP_NAME = str(getenv('APP_NAME', 'bcnlinkss-cb98cd12cc53'))
+    APP_NAME = str(getenv('APP_NAME', 'balapandiyan'))
 
 else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "http://{}/".format(FQDN)
+    URL = "https://balapandiyan-9372e64b04d8.herokuapp.com/".format(FQDN)
 else:
-    URL = "http://{}/".format(FQDN)
+    URL = "https://balapandiyan-9372e64b04d8.herokuapp.com/".format(FQDN)
 
 
 
